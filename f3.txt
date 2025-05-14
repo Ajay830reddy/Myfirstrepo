@@ -1,3 +1,9 @@
+//story-121
+x=90
+y=80
+z=70
+echo "Enter all three numbers"
+
 
 a = 10
 b = 20
