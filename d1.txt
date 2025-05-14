@@ -1,0 +1,11 @@
+#! /bin/bash
+
+echo "Read first number"
+
+read $FNUM
+
+echo "Read second number"
+
+read $SNUM
+
+ok then how was your day
