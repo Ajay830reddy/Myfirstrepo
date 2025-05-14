@@ -8,4 +8,4 @@ echo "Read second number"
 
 read $SNUM
 
-hi hello hw r u
+Im fine and what about you
