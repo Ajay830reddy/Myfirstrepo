@@ -1,7 +1,4 @@
 hi im ajay
 this is first updated file
-<<<<<<< HEAD
-please verify once before deploy
-=======
 ready to deploy in the server
->>>>>>> refs/remotes/origin/feature
+Ok done
