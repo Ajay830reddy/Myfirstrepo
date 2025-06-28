@@ -1,2 +1,6 @@
 Hi
+<<<<<<< HEAD
 welcome to my youtube channel
+=======
+Hello, this ajay from Ap
+>>>>>>> 94a832a6d71cdfe3d147a954c0498912a6c46d51
