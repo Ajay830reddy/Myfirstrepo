@@ -1,6 +1,3 @@
 Myself vijay
-<<<<<<< HEAD
 i am from chittoor
-=======
-im from chittoor
->>>>>>> d0f5a38e62232a871d1cf82c7dc12ab384027ae5
+
