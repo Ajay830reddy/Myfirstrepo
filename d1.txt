@@ -1,4 +1,18 @@
+//story-121
+x=10
+y=20
+
+x+y=30
+z=x+y
+s.o.p(z)
+
 a=1
 b=2
 
 a+b=3
+
+//changes story-131
+int=10
+i=20
+j=30
+
